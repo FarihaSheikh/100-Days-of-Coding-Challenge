@@ -43,5 +43,3 @@ console.log(16/2);
 let favouriteNumber: number = 18;
 
 console.log("My favourite number is " + favouriteNumber);
-
-
